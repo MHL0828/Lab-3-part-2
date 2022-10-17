@@ -1,4 +1,5 @@
 [lab3part2.md](lab3part2.md)
+
 ## Question 6
 | Program | Software manufacturer | Software Version | Software type|
 | ------:| -----------:| ------:| -----------:|

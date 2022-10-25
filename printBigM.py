@@ -1,7 +1,7 @@
 '''
-Created on Oct 13, 2021
+Created on Oct 25, 2022
 
-@author: tchan
+@author:MOK HO LUN
 '''
 print('''
 M     M     M
